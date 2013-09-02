@@ -8,10 +8,3 @@ helpers do
 end
 
 
-# @user = User.find_by_email(params[:user][:email])
-#     puts @user.id
-#     puts @user
-#     session[:user_id] == @user.id ? true : false
-
-
-
